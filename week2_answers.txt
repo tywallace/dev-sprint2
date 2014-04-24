@@ -1,2 +1,8 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Tyler Wallace
+
+3 Web App Ideas:
+
+1. Allow users to download files stored in a folder (similar to accessing the music)
+2. Allow users to vote on options and store/display results 
+3. Allow users to create playlists online that other users can listen to.
